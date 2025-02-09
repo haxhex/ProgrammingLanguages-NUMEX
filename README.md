@@ -66,4 +66,4 @@ Here is a sample NUMEX program demonstrating arithmetic and conditionals:
 This program checks if `x` is greater than `y` and evaluates to `1` if true, otherwise `0`.  
 
 ## **Testing**  
-Example programs can be tested by running them through the `eval-exp` function, and their types can be inferred using `infer-exp`. Test cases are provided in the `examples/` directory.  
+Example programs can be tested by running them through the `eval-exp` function, and their types can be inferred using `infer-exp`.
